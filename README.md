@@ -24,6 +24,6 @@ This repository contains all of the notes taken by Ezechiel Itimbien for the Lig
 2. Item two
 3. Item Three
 
-* [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+* [Week 1](/week_1)
+  * [Day 1](/week_1/day_1/)
 
