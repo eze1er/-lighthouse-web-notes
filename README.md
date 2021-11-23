@@ -16,3 +16,14 @@ This repository contains all of the notes taken by Ezechiel Itimbien for the Lig
 [Link Text](url)
 
 ...taken by [Joel](https://github.com/JoelCodes) for the...
+
+* Week 1
+  * Day 1
+
+1. Item one
+2. Item two
+3. Item Three
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+
