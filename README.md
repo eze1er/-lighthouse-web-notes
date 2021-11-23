@@ -27,3 +27,8 @@ This repository contains all of the notes taken by Ezechiel Itimbien for the Lig
 * [Week 1](/week_1)
   * [Day 1](/week_1/day_1/)
 
+## Markdown Cheatsheet
+
+<p><i>If you would like to know more about Markdown and what you can do with it, check out the Markdown Cheatsheet link below.</i></p>
+
+[Mackdown Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
